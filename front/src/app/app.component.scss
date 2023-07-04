@@ -1,0 +1,16 @@
+@import '../shared.scss';
+
+.wrapper-main{
+    margin: auto;
+    margin-top: 25px;
+    width: 90%;
+}
+
+.header {
+  padding: 20px;
+  background-color: $bgSecond;
+
+  img {
+    width: 200px;
+  }
+}
