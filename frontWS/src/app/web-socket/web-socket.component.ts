@@ -29,5 +29,5 @@ export class WebSocketComponent implements OnInit {
       console.error('WebSocket error:', error);
     };
   }
-
+  
 }
